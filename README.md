@@ -1,2 +1,0 @@
-# BayesAngular
-Created with CodeSandbox
